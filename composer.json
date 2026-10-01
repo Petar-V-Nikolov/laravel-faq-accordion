@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "petar-v-nikolov/laravel-faq-accordion",
+    "name": "pnscripts/laravel-faq-accordion",
     "type": "project",
     "description": "Laravel 13 FAQ accordion kit: public accordion with session auth and CRUD.",
     "keywords": ["laravel", "faq", "accordion", "starter-kit"],
