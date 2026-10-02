@@ -24,7 +24,7 @@ Listed as an open-source starter on [pnscripts.com](https://pnscripts.com).
 ## Install
 
 ```bash
-git clone git@github.com:petar-v-nikolov/laravel-faq-accordion.git
+git clone git@github.com:pnscripts/laravel-faq-accordion.git
 cd laravel-faq-accordion
 cp .env.example .env
 composer install
