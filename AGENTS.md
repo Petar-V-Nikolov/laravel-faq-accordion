@@ -3,7 +3,7 @@
 This repository is part of the DEV workspace and uses the shared **AI Brain** (`DEV/ai-brain`).
 
 1. Read the brain router first: [`../../../../ai-brain/AGENTS.md`](../../../../ai-brain/AGENTS.md)
-2. Then this repo's profile: [`../../../../ai-brain/projects/marketplace/laravel-faq-accordion.md`](../../../../ai-brain/projects/marketplace/laravel-faq-accordion.md)
+2. Then this repo's profile: [`../../../../ai-brain/projects/pnscripts-archive/laravel-faq-accordion.md`](../../../../ai-brain/projects/pnscripts-archive/laravel-faq-accordion.md)
 3. Rules written in this repository (this file, `.cursor/rules/`, other repo docs) are **project rules** and override generic brain knowledge.
 
 Laravel Boost is **not** installed in this repo; the previous Boost bootstrap stub was replaced (brain conflict C-20).

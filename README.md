@@ -1,5 +1,7 @@
 # Laravel FAQ Accordion
 
+> **Archived (2026-10-03).** No longer maintained by PN Scripts; kept read-only for reference.
+
 A Laravel 13 starter kit for a small public FAQ page. Visitors see an accordion of published questions. Signed-in users add, edit, and delete items.
 
 This is a teaching and bootstrap kit, not a helpdesk or knowledge base. There is no search, no categories, no Filament admin, no GraphQL, and no CMS package.
